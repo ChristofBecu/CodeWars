@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuildTower", "BuildTower\Bu
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TakeATenMinuteWalk", "TakeATenMinuteWalk\TakeATenMinuteWalk.csproj", "{24DBCBF9-7AEA-453F-8C51-E146A723E712}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterErrors", "PrinterErrors\PrinterErrors.csproj", "{BC0506CF-0ABA-4D3E-B171-03C90039F2DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{24DBCBF9-7AEA-453F-8C51-E146A723E712}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24DBCBF9-7AEA-453F-8C51-E146A723E712}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24DBCBF9-7AEA-453F-8C51-E146A723E712}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC0506CF-0ABA-4D3E-B171-03C90039F2DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC0506CF-0ABA-4D3E-B171-03C90039F2DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC0506CF-0ABA-4D3E-B171-03C90039F2DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC0506CF-0ABA-4D3E-B171-03C90039F2DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
