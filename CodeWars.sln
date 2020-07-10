@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30225.117
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlphabetPosition", "AlphabetPosition\AlphabetPosition.csproj", "{4AD41E0F-4498-4814-B646-6F0501FCF908}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreTheyTheSame", "AreTheyTheSame\AreTheyTheSame.csproj", "{DC8F71D4-8954-4880-9867-672183DC0146}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AreTheyTheSame", "AreTheyTheSame\AreTheyTheSame.csproj", "{DC8F71D4-8954-4880-9867-672183DC0146}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildTower", "BuildTower\BuildTower.csproj", "{698C1104-9094-4C6E-B511-8CC11552CE52}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DC8F71D4-8954-4880-9867-672183DC0146}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC8F71D4-8954-4880-9867-672183DC0146}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC8F71D4-8954-4880-9867-672183DC0146}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698C1104-9094-4C6E-B511-8CC11552CE52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698C1104-9094-4C6E-B511-8CC11552CE52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698C1104-9094-4C6E-B511-8CC11552CE52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698C1104-9094-4C6E-B511-8CC11552CE52}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
