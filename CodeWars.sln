@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterErrors", "PrinterErr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfASequence", "SumOfASequence\SumOfASequence.csproj", "{63444D54-C840-4895-83A0-D04360489B8F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PlayingWithDigits", "PlayingWithDigits\PlayingWithDigits.csproj", "{2B185905-A82D-43F4-BA8F-0D2A709950FD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{63444D54-C840-4895-83A0-D04360489B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63444D54-C840-4895-83A0-D04360489B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63444D54-C840-4895-83A0-D04360489B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B185905-A82D-43F4-BA8F-0D2A709950FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B185905-A82D-43F4-BA8F-0D2A709950FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B185905-A82D-43F4-BA8F-0D2A709950FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B185905-A82D-43F4-BA8F-0D2A709950FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
